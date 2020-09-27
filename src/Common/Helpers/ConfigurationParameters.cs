@@ -66,6 +66,7 @@ namespace ServiceBusExplorer.Helpers
         public const string ProxyUseDefaultCredentials = "Proxy.UseDefaultCredentials";
         public const string ProxyUserName = "Proxy.UserName";
         public const string ProxyPassword = "Proxy.Password";
+        public const string NodesColors = "Colors.Nodes";
 
         #endregion
 
